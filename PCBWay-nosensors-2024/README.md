@@ -31,4 +31,11 @@ For the IPS board, components need to be soldered only on one side, hence a more
 [IPS board](https://github.com/gzweigle/DIY-Grand-Digital-Piano/tree/51ad6b66555ceca2a08ab771cdea9e55334bccfc/hardware/releases/ips20/ips20_kicad_v0)
 
 
+# Bill of Materials
 
+These were based off the original text files which are included in the links, but then needed to be modified to the format PCBWay wanted, which unfortunately is microsoft EXCEL
+and hence cannot be easily diff'ed in git.
+
+[ACE board](https://github.com/gzweigle/DIY-Grand-Digital-Piano/blob/51ad6b66555ceca2a08ab771cdea9e55334bccfc/hardware/releases/aceA00/aceA00_bill_of_materials_0.txt)
+[SCA board](https://github.com/gzweigle/DIY-Grand-Digital-Piano/blob/51ad6b66555ceca2a08ab771cdea9e55334bccfc/hardware/releases/sca00/sca00_bill_of_materials_0.txt)
+[IPS board](https://github.com/gzweigle/DIY-Grand-Digital-Piano/blob/51ad6b66555ceca2a08ab771cdea9e55334bccfc/hardware/releases/ips20/ips20_bill_of_materials_0.txt)
