@@ -37,3 +37,18 @@ and hence cannot be easily diff'ed in git.
 * [ACE board](https://github.com/gzweigle/DIY-Grand-Digital-Piano/blob/51ad6b66555ceca2a08ab771cdea9e55334bccfc/hardware/releases/aceA00/aceA00_bill_of_materials_0.txt)
 * [SCA board](https://github.com/gzweigle/DIY-Grand-Digital-Piano/blob/51ad6b66555ceca2a08ab771cdea9e55334bccfc/hardware/releases/sca00/sca00_bill_of_materials_0.txt)
 * [IPS board](https://github.com/gzweigle/DIY-Grand-Digital-Piano/blob/51ad6b66555ceca2a08ab771cdea9e55334bccfc/hardware/releases/ips20/ips20_bill_of_materials_0.txt)
+
+# Images
+
+To ease one understanding what is being ordered, I made screenshots of KiCad 3D view of the board. There is no guarantee that they would match what has/will be ordered, but it's
+a good starting point about what to dig into if anything looks wrong (e.g. those pedal jacks in the IPS board)
+
+## ACE board
+![3D view of the ACE Board](ACE/ACE.png)
+
+## SCA board
+![3D view of the SCA Board](SCA/SCA.png)
+
+## IPS board
+![3D view of the IPS Board](IPS/IPS.png)
+
