@@ -1,0 +1,27 @@
+Label,Quantity,  Description,           Package,    Part Number,          Required?,     Ignore,     Comment
+"C1,C2, C5-C14",12,     10uF Ceramic,805,       C0805C106J8RAC,       Yes,0.25,        X7R or better. 5% or smaller. 10 VDC or higher rating.
+C3,1,     0.1uF Ceramic,805,       C0805C104K3RACTU,     Yes,0.25,        X7R or better. 5% or smaller. 10 VDC or higher rating.
+C4,1,     1uF Ceramic,805,       C0805C105J4RACTU,     Yes,0.25,        X7R or better. 5% or smaller. 10 VDC or higher rating.
+"D1,D5,D6",3,     LED - RED,805,       generic,              Yes,0.5,        Any SMD LED in an 0805 package.
+"D2,D7",2,     LED - GREEN,805,       generic,              Yes,0.5,        Any SMD LED in an 0805 package.
+D3,1,     LED - BLUE,805,       generic,              Yes,0.5,        Any SMD LED in an 0805 package.
+D4,1,     LED - YELLOW,805,       generic,              Yes,0.5,        Any SMD LED in an 0805 package.
+"J10, J12",2,    1x2 pin male 0.1in,    -,          generic,              Yes,0.04, 
+J46,1,    1x6 pin male 0.1in,    -,          generic,              Yes,0.12,
+REF07,1,  2x3 pin female 2mm,    -,          M22-7140342,          Yes,1.5,
+J2,1,     Ethernet Jack,         -,          Cetus J1B1211CCD,     Yes,5,
+"J4-J9,J16-J45",36,     1x8 pin male 0.1in,    -,          generic,              Yes,0.16,        Header for connection to external sensors.
+REF04,1,  1x6 pin female 0.1in,  -,          generic,              Yes,0.16,
+REF05,1,  1x3 pin female 0.1in,  -,          generic,              Yes,0.16,        Header. Right. Next to R14 and J11.
+REF03,1,  1x13 pin female 0.1in, -,          generic,              Yes,0.16,        Header. Bottom. Next to D7 and R13.
+REF06,1,  1x2 pin female 0.1in,  -,          generic,              Yes,0.16,        Header. Left. Solder to 3.3v and 5v. Do not solder a connection to gnd location.
+R1,1,     120  ohms,805,       ERA-6VEB1200V,        Yes,0.75,        0.25W. 0.2% tolerance or better.
+"R2-R6,R15-R16",7,     7500 ohms,805,       ERA-6AED752V,         Yes,0.3,        For LED.  Can use smaller/larger value for brighter/dimmer LED.
+"R7,R8",2,     47 ohms,805,       ERA-6AED470V,         Yes,0.4,        0.125W. 5% tolerance or better. For IRIG signal.
+"F1,F2",2,     Fuse,1210,       zero ohm resistor,    Yes,1.5,        
+"SW1,SW2",2,    2 position switch,     -,          DS04-254-1-02BK-SMT,  Yes,0.75,        
+U1-U6,6,     16:1 multiplexer,      SOIC-24,    CD74HC4067,           Yes,1,        Equivalent is ok.
+"REF01, REF02",2,  1x24 pin female 0.1in, -,          generic,              Yes,0.48,        
+U8,1,     CAN Bus driver,        SOIC-8,     TCAN330G,             Yes,3.5,        Install if need CAN Bus for board to board communication.
+"U11,U15-19",6,    LDO voltage regulator, SOT-23,     TLV75533PDBVR,        Yes,0.5,        5V-in. 3.3V-out. 500mA drive current. With overcurrent protection.
+H1-H5,5,     Mounting hole 2.2mm,   -,          -,                    -,0,        Nothing to install. just noting the mounting hole diameter for bolt selection.
