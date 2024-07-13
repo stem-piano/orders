@@ -38,6 +38,9 @@ and hence cannot be easily diff'ed in git.
 * [SCA board](https://github.com/gzweigle/DIY-Grand-Digital-Piano/blob/51ad6b66555ceca2a08ab771cdea9e55334bccfc/hardware/releases/sca00/sca00_bill_of_materials_0.txt)
 * [IPS board](https://github.com/gzweigle/DIY-Grand-Digital-Piano/blob/51ad6b66555ceca2a08ab771cdea9e55334bccfc/hardware/releases/ips20/ips20_bill_of_materials_0.txt)
 
+For convenience of visualization on github itself, CSV copies of these are included (and sometimes utilized for editing since it's much more convenient than a horrible spreadsheet).
+However what is ordered and purchased is what is on the spreadsheet, so in case of disagreement it trumps the CSV file, sadly.
+
 # Images
 
 To ease one understanding what is being ordered, I made screenshots of KiCad 3D view of the board. There is no guarantee that they would match what has/will be ordered, but it's

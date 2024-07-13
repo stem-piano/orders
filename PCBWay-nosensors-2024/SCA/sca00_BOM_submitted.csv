@@ -1,0 +1,17 @@
+Label,Quantity,   Description,           Package,    Part Number,          Required?,     Comment
+"C1,C5",2,      10uF Ceramic,805,       C0805C106J8RACAUTO,   Yes,          X7R or better. 5% or better. 10 VDC or higher rating.
+"C2,C3,C6,C7,C9",5,      1uF Ceramic,805,       C0805C105J4RACTU,     Yes,          X7R or better. 5% or better. 10 VDC or higher rating.
+C4,1,      47uF Ceramic,805,       0805ZD476MAT2A,       Yes,          X5R or better. 20% or better. 10 VDC or higher rating.
+C8,1,      470pF Ceramic,805,       C0805C471J3RACTU,     Yes,          X7R or better. 5% or better. 10 VDC or higher rating.
+J1,1,      1x13 pin male 0.1in,   TH,         generic,              Yes,          
+"J2,J4",2,      1x3 pin male 0.1in,    TH,         generic,              Yes,         
+J3,1,      1x6 pin male 0.1in,    TH,         generic,              Yes,        
+R1,1,      120K ohms,805,       ERA-6AED124V,         Yes,          0.125W. 5% tolerance or better.
+R2,1,      0.2 ohms,805,       ERJ-U6SFR20V,         Yes,          Resistance less than 0.5 ohms. 0.125W. 5% or better tolerance.
+"R3,R4",2,      47 ohms,805,       ERA-6AED470V,         Yes,          0.125W. 5% tolerance or better.
+"SW1,SW2",2,     2 position switch,     -,          DS04-254-1-02BK-SMT,  Yes,           
+U1,1,      2.5v reference,        VSSOP-8,    REF6025,              Yes,          Select reference voltage based on maximum expected value from external sensor.
+U2,1,      ADC. 1Msps. 16-bit,    VSSOP-10,   ADS8860,              Yes,          
+U3,1,      8:1 multiplexer,       SOIC-16,    SN74LV4051,           Yes,          Equivalent is ok.
+U4,1,      op amp,                SOT-23-5,   THS4281,              Yes,          Equivalent is ok.
+H1,,      Mounting hole 2.2mm,   -,          -,                    No,           Nothing to install just noting the mounting hole diameter for bolt selection.
