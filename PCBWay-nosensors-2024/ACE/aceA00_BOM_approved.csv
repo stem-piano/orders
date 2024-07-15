@@ -1,0 +1,11 @@
+"PCBWay Bom Quotation, Product No.:T-1N22W341931A",,,,,,,,,,,,,
+Item #,*Designator,*Qty,*Mfg Part #,Description / Value,*Package/Footprint,Your Instructions / Notes,*Unit Price(14 sets),*Total,*Delivery Time,*Actual Purchase Mfg Part #,*PCBWay Note,Customer Reply,PCBWay Update
+1,"J1,J6",2,,1x8 connector socket 0.1in,TH,,$0.517,$14.476,7-10 Workdays,61300811821,,,
+2,"J2,J4,J5,J7,J9,J10",6,,1x8 connector pin 0.1in,TH,,$0.168,$14.112,7-10 Workdays,10129378-908002BLF,,,
+3,"J3,J8",2,,1x2 connector socket 0.1in,TH,,$0.405,$11.340,7-10 Workdays,PPPC021LFBN-RC,,,
+4,R1-R16,16,ERA-6AEB432V,4300 ohm resistor,0805,0.125W. 1% tolerance or better.,$0.196,$43.904,7-10 Workdays,RN73R2ATTD2002F25,20k 125mW 1% 0805,,
+,,,,,,,Component Cost,$83.83,,,,,
+,,,,,,,Assembly Cost,$29.00,,,,,
+,,,,,,,PCB Cost,$23.64,,,,,
+,,,,,,,V2 Member 2% off,-$1.05,,,,,
+,,,,,,,All Total 14 Sets,$135.42,,,,,
